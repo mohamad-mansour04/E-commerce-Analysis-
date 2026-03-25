@@ -6,10 +6,11 @@ This project analyzes an E‑commerce dataset containing orders, products, and c
 The report includes 4 pages:
 
 ✅ CEO Executive Summary
-Screenshot 2026-03-25 193755.png
+https://github.com/mohamad-mansour04/E-commerce-Analysis-/blob/136497011abb8ae555a2c4b5ec28c2345ab71ed7/Screenshot%202026-03-25%20193755.png
 ✅ Product Performance Analysis
 https://github.com/mohamad-mansour04/E-commerce-Analysis-/blob/601a829a4397afb3a5783ffc162400dde1acd9c8/Screenshot%202026-03-25%20215443.png
 ✅ Customer Analysis
+
 ✅ Insights & Recommendations
 
 
