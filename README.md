@@ -10,7 +10,7 @@ https://github.com/mohamad-mansour04/E-commerce-Analysis-/blob/136497011abb8ae55
 ✅ Product Performance Analysis
 https://github.com/mohamad-mansour04/E-commerce-Analysis-/blob/601a829a4397afb3a5783ffc162400dde1acd9c8/Screenshot%202026-03-25%20215443.png
 ✅ Customer Analysis
-
+https://github.com/mohamad-mansour04/E-commerce-Analysis-/blob/a987d94b2bb4b7b18474147826bbb76feb08cd2b/Screenshot%202026-03-25%20215524.png
 ✅ Insights & Recommendations
 
 
