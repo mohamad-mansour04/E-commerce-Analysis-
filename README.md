@@ -6,7 +6,9 @@ This project analyzes an E‑commerce dataset containing orders, products, and c
 The report includes 4 pages:
 
 ✅ CEO Executive Summary
+Screenshot 2026-03-25 193755.png
 ✅ Product Performance Analysis
+
 ✅ Customer Analysis
 ✅ Insights & Recommendations
 
