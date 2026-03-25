@@ -66,10 +66,10 @@ Run mid‑year campaigns to reduce seasonal dips.
 
 
 📁 Download the Report
-Ecommerce-Analysis.pbix
+e commerce BI.pbix 
 
 
 📬 Contact
 Mohamed Mansour
-LinkedIn: [your link]
-Email: [optional]
+LinkedIn: www.linkedin.com/in/mohamad-mansour-a5ab192a5
+Email: mohamadmans717@gmail.com
