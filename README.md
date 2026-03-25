@@ -8,7 +8,7 @@ The report includes 4 pages:
 ✅ CEO Executive Summary
 Screenshot 2026-03-25 193755.png
 ✅ Product Performance Analysis
-
+https://github.com/mohamad-mansour04/E-commerce-Analysis-/blob/601a829a4397afb3a5783ffc162400dde1acd9c8/Screenshot%202026-03-25%20215443.png
 ✅ Customer Analysis
 ✅ Insights & Recommendations
 
