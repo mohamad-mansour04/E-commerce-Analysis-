@@ -66,7 +66,7 @@ Run mid‑year campaigns to reduce seasonal dips.
 
 
 📁 Download the Report
-e commerce BI.pbix 
+https://github.com/mohamad-mansour04/E-commerce-Analysis-/blob/fa9d15a554a6f103a76b815f0b443996eceea257/e%20commerce%20BI.pbix
 
 
 📬 Contact
