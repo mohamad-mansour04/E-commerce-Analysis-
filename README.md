@@ -7,12 +7,15 @@ The report includes 4 pages:
 
 ✅ CEO Executive Summary
 https://github.com/mohamad-mansour04/E-commerce-Analysis-/blob/136497011abb8ae555a2c4b5ec28c2345ab71ed7/Screenshot%202026-03-25%20193755.png
+
 ✅ Product Performance Analysis
 https://github.com/mohamad-mansour04/E-commerce-Analysis-/blob/601a829a4397afb3a5783ffc162400dde1acd9c8/Screenshot%202026-03-25%20215443.png
+
 ✅ Customer Analysis
 https://github.com/mohamad-mansour04/E-commerce-Analysis-/blob/a987d94b2bb4b7b18474147826bbb76feb08cd2b/Screenshot%202026-03-25%20215524.png
-✅ Insights & Recommendations
 
+✅ Insights & Recommendations
+https://github.com/mohamad-mansour04/E-commerce-Analysis-/blob/2a5f7e19f5e3cf2a2f64a3b2a9ec244719c3095d/Screenshot%202026-03-25%20215604.png
 
 🛠 Tech Stack
 
